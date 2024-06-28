@@ -31,7 +31,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/movindu09"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,ae,bootstrap,docker,figma,firebase,flask,gcp,git,gmail,java,mysql,ps,php,pr,py,sqlite,stackoverflow,wordpress,xd"> </a> </p>
+<p align="left"> <a href="https://github.com/movindu09"><img src="https://skillicons.dev/icons?i=vscode,github,react,css,html,js,ae,bootstrap,docker,figma,firebase,flask,gcp,git,gmail,java,mysql,ps,php,pr,py,sqlite,stackoverflow,wordpress,xd"> </a> </p>
 
 ## My Stats:
 <p align="center">
